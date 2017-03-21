@@ -18,6 +18,7 @@ public class JenkinsTest {
         for(int i = 1; i < 10;i ++)
         {
             System.out.println("elen" + i + 1);
+             System.out.println("new" + i );
         }
     }
     
